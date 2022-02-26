@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true relation of Capt: Will: Batten: Admirall of the fleet now at sea, in the service of the King, Parliament, and kingdome. Touching the manner of the transportation of the six members; viz: Sir Philip Stapleton, Sir Will: Lewis, Sir Will: Waller, [double brace] Sir John Clotworthy, Mr. Long, and Mr. Hollis beyond the seas.</title>
+            <author>Batten, William, Sir, d. 1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76119</idno>
+            <idno type="STC">Wing B1154</idno>
+            <idno type="STC">Thomason E404_38</idno>
+            <idno type="STC">ESTC R201870</idno>
+            <idno type="EEBO-CITATION">99862359</idno>
+            <idno type="PROQUEST">99862359</idno>
+            <idno type="VID">160466</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76119)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160466)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E404[38])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true relation of Capt: Will: Batten: Admirall of the fleet now at sea, in the service of the King, Parliament, and kingdome. Touching the manner of the transportation of the six members; viz: Sir Philip Stapleton, Sir Will: Lewis, Sir Will: Waller, [double brace] Sir John Clotworthy, Mr. Long, and Mr. Hollis beyond the seas.</title>
+                  <author>Batten, William, Sir, d. 1667.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Simmons,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed at end: Aboard the St. Andrew in the Downes, Aug. 26. 1647. Will: Batten.</note>
+                  <note>The words "Sir Philip .. Waller," and "Sir John .. Hollis" are bracketed together on title page.</note>
+                  <note>Annotation on Thomason copy: "Aug: 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Expulsions --  Early works to 1800.</term>
+               <term>Impeachments --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160466:1" rendition="simple:additions"/>
+            <p>THE TRUE RELATION OF C<hi rend="sup">apt:</hi> WILL: BATTEN: Admirall of the Fleet now at Sea, in the Service of the King, Parliament, and KINGDOME.</p>
+            <p>TOUCHING The manner of the tranſportation of the ſix MEMBERS;</p>
+            <p>Viz:
+<list>
+                  <item>Sir <hi>Philip Stapleton,</hi>
+                  </item>
+                  <item>Sir <hi>Will: Lewis,</hi>
+                  </item>
+                  <item>Sir <hi>Will: Waller,</hi>
+                  </item>
+                  <item>Sir <hi>John Clotworthy,</hi>
+                  </item>
+                  <item>Mr. <hi>Long,</hi> and Mr. <hi>Hollis</hi>
+                  </item>
+               </list> beyond the Seas.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Matthew Simmons,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160466:2"/>
+            <pb n="3" facs="tcp:160466:2"/>
+            <head>THE TRUE RELATION OF C<hi rend="sup">apt:</hi> WILL: BATTEN: TOUCHING The tranſporting of the ſix MEMBERS.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Reports are various concerning the going beyond Se<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of ſix or the eleven Members: And that ſome hath under<g ref="char:EOLhyphen"/>taken to put it in Print con<g ref="char:EOLhyphen"/>contrary to Truth: I ſhall therefore brief<g ref="char:EOLhyphen"/>ly and truly ſet it downe, as followeth.</p>
+            <pb n="4" facs="tcp:160466:3"/>
+            <p>Sir <hi>Philip Stapleton:</hi> Sir <hi>William Lewis:</hi> Sir <hi>William Waller:</hi> Sir <hi>John Clotworthy,</hi> and Mr. <hi>Long:</hi> hired a ſmall Ketch to tranſ<g ref="char:EOLhyphen"/>port them to <hi>Holland:</hi> which Ketch be<g ref="char:EOLhyphen"/>longed unto one <hi>Greene,</hi> being let to them for twenty pounds, halfe whereof was paid in hand, and the other halfe at their landing, and ſixtie pounds ſecuritie: gi<g ref="char:EOLhyphen"/>ven for to Inſure the Ketch: All this was done by the conſent of the ſaid <hi>Green:</hi> The place where they were to be receiv'd: was <hi>Should-Haven,</hi> a little below <hi>Tilbury-Hope:</hi> where foure of theſe Gentlemen came by Land, and Sir <hi>Iohn Clotworthy</hi> in a paire of Oares by <hi>Graveſend:</hi> who all met there, and imbarked themſelves; <hi>Green</hi> like a craftie fellow, having re<g ref="char:EOLhyphen"/>ceiv'd the moitie of his Money, puts in another Maſter to goe over with the Veſ<g ref="char:EOLhyphen"/>ſel, and as ſoone as the Gentlemen were imbarked, goes up to the <hi>Block-houſe</hi> to <hi>Graveſend,</hi> and there informes Captaine <hi>Redman,</hi> that they were gone away with his Veſſell, with a great deale of Treaſure.</p>
+            <p>Whereupon, the ſaid Captaine gives
+<pb n="5" facs="tcp:160466:3"/>him a Warrant to purſue, and make ſtay of them, and to that purpoſe ſent a Trooper with him, who comming downe into <hi>Kent,</hi> before <hi>Marrget</hi> eſpied this Ketch and there told the <hi>Marrget men</hi> that they were runne away with his Ketch, and had fifteen <hi>Portmantuas</hi> of Treaſure a<g ref="char:EOLhyphen"/>bord.</p>
+            <p>The men of <hi>Marrget</hi> very readily beat up their Drums, &amp; manned A <hi>Doggerboate,</hi> that was bound to <hi>New-Caſtle,</hi> and one <hi>Roger Lamings</hi> had the command of her, who a little before had a Commiſſion from ſome of theſe Gentlemen, to raiſe a Company againſt the Armie, and received ten pounds in Money, and had raiſed ſome force.</p>
+            <p>This <hi>Lamings</hi> purſued after them tho<g ref="char:EOLhyphen"/>rough the <hi>Downes;</hi> but they were gone two or three leagues a head of: ſo calling to the <hi>Nicodemas,</hi> a Frigat under my Com<g ref="char:EOLhyphen"/>mand: who preſently let ſlip, and follow<g ref="char:EOLhyphen"/>ed him, and halfe Seas over brought her up: who very readily and willingly came backe with them to me: ſo that ſhe was
+<pb n="6" facs="tcp:160466:4"/>not brought back by <hi>Laminges</hi> as is ſugge<g ref="char:EOLhyphen"/>ſted.</p>
+            <p>This ſixteenth of <hi>Auguſt,</hi> at night, the <hi>Nicodemas</hi> brought back the veſſell, with the Members, whom I tooke abord the Ship, and ſecured the Veſſell, and about eight a clock at night, ſent away <hi>Lamings</hi> to <hi>Marget,</hi> to ſee what <hi>Green,</hi> or any o<g ref="char:EOLhyphen"/>thers had any pretences againſt them: charging him to be back in the morning early.</p>
+            <p>The ſeventeenth, in the Morning I called a Councell of Warre, the Reſult whereof was, that in regard theſe Members had all ſeverall paſſes, from the <hi>Speaker</hi> of the Houſe of <hi>Commons:</hi> dated the tenth, and eleventh of <hi>Auguſt,</hi> and an Order of both Houſes to the <hi>Speaker</hi> for granting them: It was held fit to diſmiſſe them; After their Veſſell was ſearched by Sir <hi>Georg Askew,</hi> Captaine <hi>Crandley,</hi> Captaine <hi>Moore,</hi> Captaine <hi>Paſſey:</hi> the Maſter of the Ketch, and divers others, where was nothing found, but five <hi>Portmantuas:</hi> with a ſuit for each of waring Apparell, and the like
+<pb n="7" facs="tcp:160466:4"/>neceſſaries, and not a pennie of money as was ſuggeſted; and about twelve a clock, no man appearing from <hi>Marget,</hi> they were diſmiſt, in regard of the extreame ſick<g ref="char:EOLhyphen"/>neſſe of Sir <hi>Phillip Stapleton,</hi> that he might not lie another night on the water, but land at <hi>Callis</hi> before night, where hee is ſince dead: About two a clock that after<g ref="char:EOLhyphen"/>noone, <hi>Lamings</hi> returned with <hi>Greene,</hi> and the Trooper with Captaine <hi>Redmans</hi> War<g ref="char:EOLhyphen"/>rant; the Veſſell then being neare halfe Seas ove, And whereas it is reported, and prin<g ref="char:EOLhyphen"/>ted, that they were reviled, and baſely uſed, tis utterly falſe; the Trooper was ſhewed their Paſſes, who was therewith ſatisfied, and dranke a cup of Wine: It is true, that I told <hi>Greene</hi> and <hi>Lamings</hi> of their knaverie.</p>
+            <p>And for Mr. <hi>Hollis,</hi> he came not to mee till the twentie one, and brought the <hi>Spea<g ref="char:EOLhyphen"/>kers</hi> Paſſe of the eleventh: and an Order of the <hi>Committe</hi> of the Admiralty of the thirteenth, for a Ship to tranſport him, who went out of the <hi>Downes</hi> the two and twen<g ref="char:EOLhyphen"/>tieth in the morning, upon the <hi>Leopard:</hi>
+               <pb n="8" facs="tcp:160466:5"/>who was bound toward St. <hi>Mallo,</hi> on ano<g ref="char:EOLhyphen"/>ther deſigne.</p>
+            <p>Thus have I given a ſhort and true Re<g ref="char:EOLhyphen"/>lation of the buſineſſe, which I will juſtifie to the world: and have all their Paſſes and papers to make it good.</p>
+            <closer>
+               <dateline>
+                  <hi>Aboard the St. Andrew in the Downes,</hi> 
+                  <date>
+                     <hi>Aug.</hi> 26. 1647.</date>
+               </dateline>
+               <signed>Will Batten.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
